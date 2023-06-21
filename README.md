@@ -1,6 +1,8 @@
 # 荆州全氏族谱
 
 排行字辈：正大光明世宜(贻/遗)谋远
+查看文字版：[https://quan-jingzhou.github.io/](https://quan-jingzhou.github.io/)
+查看图片版：[https://quan-jingzhou.github.io/Screenshot_20230621_quan-jingzhou.github.io.jpeg](https://quan-jingzhou.github.io/Screenshot_20230621_quan-jingzhou.github.io.jpeg)
 
 ## 全姓历代人物
 三国时吴国桂阳太守全柔，右大司马、左军师、钱塘侯全琮，扬武将军全绪；五代十国时后蜀文州刺史全师雄；明朝文华殿大学士全思诚，万历进士、河南按察副使全良范，孝子全大成；清朝史学家、文学家全祖望，左江镇总兵全节，寿春镇总兵全玉贵；当代哲学家全增嘏。
