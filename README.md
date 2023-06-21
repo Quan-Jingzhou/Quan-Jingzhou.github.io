@@ -1,6 +1,14 @@
 # 荆州全氏族谱
 
-排行字辈：正大光明世宜(贻/遗)谋远
+排行字辈：
+
+正大光明世贻谋远
+
+正大光明世宜谋远
+
+正大光明世遗谋远
+
+正大光明世贻茂远
 
 查看文字版：[https://quan-jingzhou.github.io/](https://quan-jingzhou.github.io/)
 
