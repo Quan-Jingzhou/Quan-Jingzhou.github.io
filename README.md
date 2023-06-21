@@ -1,7 +1,9 @@
 # 荆州全氏族谱
 
 排行字辈：正大光明世宜(贻/遗)谋远
+
 查看文字版：[https://quan-jingzhou.github.io/](https://quan-jingzhou.github.io/)
+
 查看图片版：[https://quan-jingzhou.github.io/Screenshot_20230621_quan-jingzhou.github.io.jpeg](https://quan-jingzhou.github.io/Screenshot_20230621_quan-jingzhou.github.io.jpeg)
 
 ## 全姓历代人物
