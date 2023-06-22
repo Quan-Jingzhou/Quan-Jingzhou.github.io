@@ -11,7 +11,7 @@
 前世遺（貽/宜）謀（茂）遠（永）
 
 ## 荆州全氏族谱记载
-查看文字版：[https://quan-jingzhou.github.io/](https://quan-jingzhou.github.io/)
+查看文字版：[https://quan-jingzhou.github.io/quan.html](https://quan-jingzhou.github.io/quan.html)
 
 查看图片版：[https://quan-jingzhou.github.io/quan.jpeg](https://quan-jingzhou.github.io/quan.jpeg)
 
