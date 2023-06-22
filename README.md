@@ -1,15 +1,16 @@
 # 荆州全氏族谱
 
-排行字辈：
+据族谱记载，先祖“必荣公”生活的地方为鲁陂村毛家铺，现有后人生活在毛家铺（行政区域：荆州市公安县章田寺乡毛家铺）、猴子店、新口、华容县、沙市区等地方。
 
-正大光明世贻谋远
+现公布之手抄本，记录不完整，望后人增补，修善族谱。
 
-正大光明世宜谋远
+## 排行字辈：
+### 记载排行：
+文守應國、天士必尚、正大光明、世遺謀遠
+### 口传排行：
+前世遺（貽/宜）謀（茂）遠（永）
 
-正大光明世遗谋远
-
-正大光明世贻茂远
-
+## 荆州全氏族谱记载
 查看文字版：[https://quan-jingzhou.github.io/](https://quan-jingzhou.github.io/)
 
 查看图片版：[https://quan-jingzhou.github.io/Screenshot_20230621_quan-jingzhou.github.io.jpeg](https://quan-jingzhou.github.io/Screenshot_20230621_quan-jingzhou.github.io.jpeg)
